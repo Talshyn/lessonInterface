@@ -1,3 +1,7 @@
+package Readers;
+
+import Readers.Reader;
+
 /**
  * Created by user on 14.02.2016.
  */
